@@ -1,0 +1,4 @@
+/build/
+*.jar
+*.zip
+nbproject/private/private.properties
